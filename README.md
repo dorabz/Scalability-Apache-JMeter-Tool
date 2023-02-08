@@ -1,8 +1,6 @@
-# Advanced-web-development---project-4
+#  Scalability - Apache JMeter Tool
 
 This is a repo of project made as a part of university course.
-
-FER - Advanced web development - 4. project
 
 Theme of project: Scalability - Apache JMeter Tool
 
